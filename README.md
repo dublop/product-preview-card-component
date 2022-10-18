@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://dublop.github.io/product-preview-card-component/)
+- Live Site URL: [https://dublop.github.io/product-preview-card-component/](https://dublop.github.io/product-preview-card-component/)
 
 ## My process
 
