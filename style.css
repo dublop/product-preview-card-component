@@ -6,7 +6,7 @@
     --white: hsl(0, 0%, 100%);
     --sm: 1.2rem;
     --md: 1.4rem;
-    --lg: 3.8rem;
+    --lg: 3.2rem;
 }
 * {
     box-sizing: border-box;
