@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/product-preview-card-component-solution-QoQX3bk10B](https://www.frontendmentor.io/solutions/product-preview-card-component-solution-QoQX3bk10B)
 - Live Site URL: [https://dublop.github.io/product-preview-card-component/](https://dublop.github.io/product-preview-card-component/)
 
 ## My process
